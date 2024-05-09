@@ -1,3 +1,6 @@
+![Thumbnail Studio DEV (1)](https://github.com/oliver-gomes/todo-next-sactions/assets/32399333/1fac414b-07f5-4ac8-872a-903a22e01d08)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
